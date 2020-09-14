@@ -1,0 +1,22 @@
+{
+  "name": "primera-clase-node",
+  "version": "1.0.0",
+  "description": "Primera clase de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia-sartirana/Clase-1---Node.git"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia-sartirana/Clase-1---Node/issues"
+  },
+  "homepage": "https://github.com/julia-sartirana/Clase-1---Node#readme",
+  "dependencies": {
+    "pretty-ms": "^7.0.0"
+  }
+}
